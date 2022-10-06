@@ -7,7 +7,7 @@
 - 📚 Learning everything about backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Razvyyh&show_icons=true&theme=dark" alt="Razvyyh :: Profile Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Razvyyh&show_icons=true&theme=dark&PAT_1" alt="Razvyyh :: Profile Stats" />
 
 ##### Languages I use
 
