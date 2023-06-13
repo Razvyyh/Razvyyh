@@ -52,7 +52,7 @@ class Razvyyh():
     self.username = "Razvyyh"
     self.location = "Italy, Milan"
     self.twitter = "@Razvyyh"
-    self.web = "https://razvyyh.it"
+    self.web = "https://razvyyh.com"
   
   def __str__(self):
     return self.name
